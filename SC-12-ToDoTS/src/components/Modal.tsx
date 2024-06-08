@@ -18,7 +18,7 @@ const Modal = ({children}: Props) => {
        
         </div>
         <div className={styles.modal}>
-        <h2>Texto Modal</h2>
+        <h2>Editando ToDo</h2>
          {children}
         </div>
     </div>
